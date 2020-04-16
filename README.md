@@ -30,7 +30,7 @@ This zigbee RF unit is pretty common, very cheap and easy-to-get from China. A c
 ![render3](graphics/render3.jpg)
 
 ## Installation
-To be able to work with the module in Kicad, clone the repository, and copy the files to the following directories:
+To be able to work with the module in Kicad, clone this repository, and use Kicad's built-in import functions, or copy the files to the following directories:
 | Function | Filename | Directory |
 | -------- | -------- | --------- |
 | Symbol | cc2538_cc2592.lib+dcm | KiCad\share\kicad\library\ |
