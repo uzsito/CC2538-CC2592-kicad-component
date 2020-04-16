@@ -1,5 +1,5 @@
 # CC2538-CC2592-kicad-component
-This repository contains schematic symbol, pcb footprint, and 3D model for a particular chinese CC2538-CC2592 Zigbee RF module. All files are provided to import the module to Kicad as a new component. 
+This repository contains handmade schematic symbol, pcb footprint, and 3D model for a particular chinese CC2538-CC2592 Zigbee RF module. All files are provided to import the module to Kicad as a new component. 
 
 ## Module specification
 ![module](graphics/module.jpg)
@@ -19,7 +19,11 @@ This zigbee RF unit is pretty common, very cheap and easy-to-get from China. A c
 | Module size | 20.5mm×33mm |
 | Pitch | 1.27mm |
 
-## Kicad instances
+## Kicad representation
+
+![symbol](graphics/kicad_symbol.jpg)
+![footprint](graphics/kicad_footprint.jpg)
+![model](graphics/kicad_model.jpg)
 
 ![render1](graphics/render1.jpg)
 ![render2](graphics/render2.jpg)
