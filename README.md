@@ -19,12 +19,11 @@ This zigbee RF unit is pretty common, very cheap and easy-to-get from China. A c
 | Module size | 20.5mm×33mm |
 | Pitch | 1.27mm |
 
-## Kicad representation
+## Kicad representation and renders
 
 ![symbol](graphics/kicad_symbol.jpg)
 ![footprint](graphics/kicad_footprint.jpg)
 ![model](graphics/kicad_model.jpg)
-
 ![render1](graphics/render1.jpg)
 ![render2](graphics/render2.jpg)
 ![render3](graphics/render3.jpg)
