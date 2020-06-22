@@ -3,7 +3,7 @@ This repository contains handmade schematic symbol, pcb footprint, and 3D model 
 
 ## Module specification
 ![module](graphics/module.jpg)
-This zigbee RF unit is pretty common, very cheap and easy-to-get from China. A couple of custom zigbee coordinator designs have been made using this part as a base. The applied CC2538 is a stable, powerful zigbee SoC with USB capability, backed up by CC2592 RF frontend. In my opinion, this is the best integrated zigbee RF solution you can get at the moment.
+This zigbee RF unit is pretty common, very cheap and easy-to-get from China. A couple of custom zigbee coordinator designs have been made using this part as a base. The applied CC2538 is a stable, powerful zigbee SoC with USB capability, backed up by CC2592 RF frontend.
 
 | Property | Value |
 | -------- | ----- |
